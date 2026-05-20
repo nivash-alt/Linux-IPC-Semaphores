@@ -1,4 +1,3 @@
-<img width="1282" height="137" alt="Screenshot 2026-05-20 085007" src="https://github.com/user-attachments/assets/22957626-d9e1-434c-8e3b-118f3a702299" /># Linux-IPC-Semaphores
 Ex05-Linux IPC-Semaphores
 
 # AIM:
